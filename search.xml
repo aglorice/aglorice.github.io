@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/post/16107.html</url>
+    <url>//</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
@@ -20,13 +20,13 @@
   </entry>
   <entry>
     <title>邓晓霞看这里</title>
-    <url>/post/916daa00.html</url>
+    <url>//</url>
     <content><![CDATA[<p><img src="https://img-1310166437.cos.ap-chengdu.myqcloud.com/img/IMG_20220522_130549.jpg" alt="IMG_20220522_130549"></p>
 <h1 id="邓晓霞是傻逼"><a href="#邓晓霞是傻逼" class="headerlink" title="邓晓霞是傻逼"></a>邓晓霞是傻逼</h1>]]></content>
   </entry>
   <entry>
     <title>bootstrap</title>
-    <url>/post/51a34670.html</url>
+    <url>//</url>
     <content><![CDATA[<h1 id="bootstarp-django-ajax-echart"><a href="#bootstarp-django-ajax-echart" class="headerlink" title="bootstarp+django+ajax+echart"></a>bootstarp+django+ajax+echart</h1><h2 id="django的文件配置"><a href="#django的文件配置" class="headerlink" title="django的文件配置"></a>django的文件配置</h2><h4 id="django文件-的基础配置："><a href="#django文件-的基础配置：" class="headerlink" title="django文件 的基础配置："></a>django文件 的基础配置：</h4><p>首先是创建app;</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">python manage.py satrtapp ‘app名’</span><br></pre></td></tr></table></figure>
 
