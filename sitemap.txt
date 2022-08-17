@@ -1,3 +1,4 @@
+https://aglorice.github.io/2022/08/17/test/
 https://aglorice.github.io/about/index.html
 https://aglorice.github.io/2022/08/16/bootstrap/
 https://aglorice.github.io/tags/index.html
@@ -6,4 +7,5 @@ https://aglorice.github.io/link/index.html
 https://aglorice.github.io/2022/08/16/hello-world/
 https://aglorice.github.io/
 https://aglorice.github.io/tags/django/
+https://aglorice.github.io/tags/c/
 https://aglorice.github.io/categories/python/
