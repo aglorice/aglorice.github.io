@@ -76,7 +76,7 @@
 
   <url>
     <loc>https://www.boringbolg.xyz/</loc>
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,14 +84,14 @@
   
   <url>
     <loc>https://www.boringbolg.xyz/tags/django/</loc>
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.boringbolg.xyz/tags/c/</loc>
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -100,7 +100,7 @@
   
   <url>
     <loc>https://www.boringbolg.xyz/categories/python/</loc>
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
